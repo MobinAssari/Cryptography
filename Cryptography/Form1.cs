@@ -21,5 +21,11 @@ namespace Cryptography
         {
             Application.Exit();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            var crForm = new Cryptoghraphy();
+            crForm.ShowDialog();
+        }
     }
 }
