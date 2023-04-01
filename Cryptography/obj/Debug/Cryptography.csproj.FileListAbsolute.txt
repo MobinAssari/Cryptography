@@ -1,0 +1,11 @@
+E:\MyCodes\C#\windows form course\Cryptography\Cryptography\bin\Debug\Cryptography.exe.config
+E:\MyCodes\C#\windows form course\Cryptography\Cryptography\bin\Debug\Cryptography.exe
+E:\MyCodes\C#\windows form course\Cryptography\Cryptography\bin\Debug\Cryptography.pdb
+E:\MyCodes\C#\windows form course\Cryptography\Cryptography\obj\Debug\Cryptography.csproj.AssemblyReference.cache
+E:\MyCodes\C#\windows form course\Cryptography\Cryptography\obj\Debug\Cryptography.csproj.SuggestedBindingRedirects.cache
+E:\MyCodes\C#\windows form course\Cryptography\Cryptography\obj\Debug\Cryptography.Form1.resources
+E:\MyCodes\C#\windows form course\Cryptography\Cryptography\obj\Debug\Cryptography.Properties.Resources.resources
+E:\MyCodes\C#\windows form course\Cryptography\Cryptography\obj\Debug\Cryptography.csproj.GenerateResource.cache
+E:\MyCodes\C#\windows form course\Cryptography\Cryptography\obj\Debug\Cryptography.csproj.CoreCompileInputs.cache
+E:\MyCodes\C#\windows form course\Cryptography\Cryptography\obj\Debug\Cryptography.exe
+E:\MyCodes\C#\windows form course\Cryptography\Cryptography\obj\Debug\Cryptography.pdb
